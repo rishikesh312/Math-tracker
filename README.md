@@ -2,7 +2,7 @@ Recognition and Classification of Handwritten Math Symbols-Tracker
 
 # Project Overview
 
-The current project is a deep learning-based web application that aims to classify mathematical symbols using Convolutional Neural Network. The user will write a character and as an output, the application should predict and classify the input from the 82 classes available in the dataset. These classes represent the different math symbols, predefined functions, digits and Latin alphanumeric symbols.
+The current project is a deep learning-based which classifies 82 classes of symbols,numbers,variables
 
 # Model
 
