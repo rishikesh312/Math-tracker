@@ -1,4 +1,4 @@
-## Project: `Recognition and Classification of Handwritten Math Symbols`
+Recognition and Classification of Handwritten Math Symbols-Tracker
 
 # Project Overview
 
